@@ -25,3 +25,6 @@ Currently I am in **1<sup>st</sup> year** and developing my skills in **python**
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
+
+# COUNTER
+[![](https://komarev.com/ghpvc/?username=ashu20004&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)]()

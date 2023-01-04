@@ -3,6 +3,8 @@
 
 I am a studnet of **B.Tech computer science engennering** at **NIET**.  
 
+I want to colaborate on **OPEN SOURCE PROJECTS**.
+
 Currently I am in **1<sup>st</sup> year** and developing my skills in **python** and **web development**.  
 
 

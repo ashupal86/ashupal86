@@ -80,8 +80,8 @@ Some_of_my_best_work:
         portfolio_website:
             {
                 description: "My portfolio is inspired from the appearance of bash a terminal.
-                               I love terminals and that give me Inspiration to build and
-                               deployee a web based terminal portfolio website.",
+                             I love terminals and that give me Inspiration to build and deployee
+                               a web based terminal portfolio website.",
                 github: [text](https://github.com/ashupal86/portfolio)
             },
         crm: 
@@ -94,16 +94,16 @@ Some_of_my_best_work:
             },
         chrome_custom_page: 
             {
-                description: "This is a simple html, css and js website to replace the statup page
-                            of chrome for productivity and keep you motivating. As this was built
-                            when I was a begineer. This was an achivement for me at that movement.",
+                description: "This is a simple html, css and js website to replace the statup page of
+                              chrome for productivity and keep you motivating. As this was built when I
+                                was a begineer. This was an achivement for me at that movement.",
                 github: [text](https://github.com/ashupal86/chrome_coustomize)
             },
         android_calculator: 
             {
-                description: "This is an android caclulator built in java. I learned a lot of java
-                             concepts while building this as this is pure array modification to solve
-                              the problem. This does not use any type of external library to solve the problem. ",
+                description: "This is an android caclulator built in java. I learned a lot of java concepts
+                             while building this as this is pure array modification to solve the problem.
+                              This does not use any type of external library to solve the problem. ",
                 github: [text](https://github.com/ashupal86/Bharat_intern_calculator)
             }
     }
@@ -120,14 +120,14 @@ funfact: "Skateboard dost ka hai 😁"
 
 
 ## GITHUB STATS
-[![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashupal86&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashupal86&show_icons=true&theme=dark)](https://github.com/ashupal86)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashupal86&hide_progress=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=CRM-Dashboard)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=chrome_coustomize)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=Bharat_intern_calculator)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=portfolio)](https://github.com/ashupal86/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=CRM-Dashboard)](https://github.com/ashupal86/CRM-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=chrome_coustomize)](https://github.com/ashupal86/chrome_coustomize)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=Bharat_intern_calculator)](https://github.com/ashupal86/Bharat_intern_calculator)
 
 
 

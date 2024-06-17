@@ -1,32 +1,141 @@
-<img src="https://github.com/ashu20004/ashu20004/blob/main/images/Frame%202.png">
-<h1>HII! I AM ASHISH PAL </h1>  
-
-I am a studnet of **B.Tech computer science engennering** at **NIET**.  
-
-I want to colaborate on **OPEN SOURCE PROJECTS**.
-
-Currently I am in **2<sup>nd</sup> year** and developing my skills in **Java** and **Android Devlopment**.  
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
-# YOU CAN REACH ME ON  
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashu20004)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pal_sahab_86/)
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pal_sahab_86)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025714023794)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-pal-5725a6257/)
-[![Ashu](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ashucoder)
+</p> 
+
+### <p  align='center'> I am <b> Ashish Pal </b> aka <b> ASHU</b> </p>
+
+<hr>
+
+## <p  align='center'>Let's Connect </p>
+<p align="center">
+<a href="https://ashu86.pythonanywhere.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/ashish-pal-5725a6257/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/aashish.pal.1">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
 
-# I am Intrested in 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
+<hr>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="figma" width="45" height="45"/>
 
-# COUNTER
+
+
+
+</p>
+<hr>
+
+
+## 👨🏻‍💻 All About Me and My Interest
+```yaml
+name: Ashish Pal
+located_in: Gr. Noida, Uttar Pradesh, India
+education: 
+    [
+        "Self-Taught Developer",
+        "High school and Intermediate",
+        "Currently pursuing B.Tech in CSE"
+    ]
+fields_of_interest:
+    [
+        "Web Development",
+        "Android Development",
+        "UI/UX",
+        "DevOps"
+    ]
+Some_of_my_best_work:
+    {
+        portfolio_website:
+            {
+                description: "My portfolio is inspired from the appearance of bash a terminal.
+                               I love terminals and that give me Inspiration to build and
+                               deployee a web based terminal portfolio website.",
+                github: [text](https://github.com/ashupal86/portfolio)
+            },
+        crm: 
+            {
+                description: "It was a dashboard for the applications subbmited through the google
+                             form and stored in database. It send ,manage and store all the updates
+                              in and send a mail to each of the selected participant.",
+                github: [text](https://github.com/ashupal86/CRM-Dashboard)
+
+            },
+        chrome_custom_page: 
+            {
+                description: "This is a simple html, css and js website to replace the statup page
+                            of chrome for productivity and keep you motivating. As this was built
+                            when I was a begineer. This was an achivement for me at that movement.",
+                github: [text](https://github.com/ashupal86/chrome_coustomize)
+            },
+        android_calculator: 
+            {
+                description: "This is an android caclulator built in java. I learned a lot of java
+                             concepts while building this as this is pure array modification to solve
+                              the problem. This does not use any type of external library to solve the problem. ",
+                github: [text](https://github.com/ashupal86/Bharat_intern_calculator)
+            }
+    }
+
+currently_learning: ["Docker", "Advance Flask", ""]
+hobbies: ["Gaming", "Music", "Skateboarding"]
+funfact: "Skateboard dost ka hai 😁"
+```
+
+
+
+## Profile Counter
 [![](https://komarev.com/ghpvc/?username=ashu20004&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)]()
+
+
+## GITHUB STATS
+[![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashupal86&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashupal86&hide_progress=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=CRM-Dashboard)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=chrome_coustomize)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=Bharat_intern_calculator)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

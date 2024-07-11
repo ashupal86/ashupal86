@@ -124,10 +124,6 @@ funfact: "Skateboard dost ka hai 😁"
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashupal86&hide_progress=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=portfolio)](https://github.com/ashupal86/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=CRM-Dashboard)](https://github.com/ashupal86/CRM-Dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=chrome_coustomize)](https://github.com/ashupal86/chrome_coustomize)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashupal86&repo=Bharat_intern_calculator)](https://github.com/ashupal86/Bharat_intern_calculator)
 
 
 

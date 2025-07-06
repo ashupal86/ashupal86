@@ -129,6 +129,8 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 
 ## 📚 My Learning Resources
 
+> ### "Learn from the source where you truly understand the concept best. It's not about where you learn, but how deeply you understand."
+
 <table>
 <thead>
 <tr>
@@ -146,17 +148,18 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 <tr>
 <td><a href="https://www.youtube.com/@techroastshow">Tech Roast Show</a></td>
 <td>Tech Startups, Entrepreneurial Insights, Industry Analysis</td>
-<td><a href="https://www.youtube.com/watch?v=sYXh0AdBw-I"><img src="https://img.youtube.com/vi/sYXh0AdBw-I/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sYXh0AdBw-I"><img src="https://i.ytimg.com/an_webp/3Nkv371jKgc/mqdefault_6s.webp?du=3000&sqp=CMSCqMMG&rs=AOn4CLAk24wZNrumztJN2l8-c8ko1IVP0A" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@Indently">Indently</a></td>
 <td>Clean Code Practices, Refactoring, Code Maintainability</td>
-<td><a href="https://www.youtube.com/watch?v=aSdVU9-SxH4"><img src="https://img.youtube.com/vi/aSdVU9-SxH4/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aSdVU9-SxH4"><img src="https://img.youtube.com/vi/I72uD8ED73U/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@TechWithTim">Tech With Tim</a></td>
 <td>Writing Modular, Maintainable & Production-Ready Code</td>
-<td><a href="https://www.youtube.com/watch?v=UrsmFxEIp5k"><img src="https://img.youtube.com/vi/UrsmFxEIp5k/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UrsmFxEIp5k"><img src="https://img.youtube.com/vi/aSdVU9-SxH4/0.jpg" width="300">
+</a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@BroCodez">Bro Code</a></td>
@@ -165,31 +168,35 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@GregHogg">Greg Hogg</a></td>
-<td>Python Fundamentals, DSA Concepts, Competitive Programming</td>
+<td> DSA Concepts, Competitive Programming</td>
 <td><a href="https://www.youtube.com/watch?v=piAlsJySUGE"><img src="https://img.youtube.com/vi/piAlsJySUGE/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@CodeWithHarry">Code With Harry</a></td>
 <td>Conceptual Understanding (Full-Stack, Backend, Web Development)</td>
-<td><a href="https://www.youtube.com/watch?v=I72uD8ED73U"><img src="https://img.youtube.com/vi/I72uD8ED73U/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I72uD8ED73U"><img src="https://img.youtube.com/vi/UrsmFxEIp5k/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@Fireship">Fireship</a></td>
 <td>Quick Insights on Frameworks, Tools, Languages</td>
-<td><a href="https://www.youtube.com/watch?v=GyIEZRFX2Zk"><img src="https://img.youtube.com/vi/GyIEZRFX2Zk/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GyIEZRFX2Zk"><a href="https://www.youtube.com/watch?v=Sxxw3qtb3_g">
+  <img src="https://img.youtube.com/vi/Sxxw3qtb3_g/0.jpg" width="300">
+</a>
+</a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@LinusTechTips">Linus Tech Tips</a></td>
 <td>Tech Industry Fun, Hardware Reviews, Tech Ecosystem Exploration</td>
-<td><a href="https://www.youtube.com/watch?v=hdYZ3jJbD_0"><img src="https://img.youtube.com/vi/hdYZ3jJbD_0/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hdYZ3jJbD_0"><img src="https://img.youtube.com/vi/sYXh0AdBw-I/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@LoiLiangYang">Loi Liang Yang</a></td>
 <td>Cybersecurity, Ethical Hacking, Bug Bounties</td>
-<td><a href="https://www.youtube.com/watch?v=IRl7D4JZz1Q"><img src="https://img.youtube.com/vi/IRl7D4JZz1Q/0.jpg" width="300"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IRl7D4JZz1Q"><img src="https://img.youtube.com/vi/GyIEZRFX2Zk/0.jpg" width="300"></a></td>
 </tr>
 </tbody>
 </table>
+
 
 
 ---

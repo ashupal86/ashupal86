@@ -127,6 +127,24 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 
 ---
 
+---
+
+## 🛡️ GitHub Contributions & Trophies
+
+<div align="center">
+
+![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashupal86&theme=tokyonight&hide_border=true)
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashupal86&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashupal86&layout=compact&theme=tokyonight&hide_border=true)
+
+[![Ashish's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashupal86&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">

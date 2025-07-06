@@ -1,9 +1,7 @@
-# 👋 Hi there, I'm Ashish Pal
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Learner+🚀; Automation+%7C+Cloud+%7C+Backend+Explorer+💻;Self-Paced+Tech+Explorer+🌱" alt="Typing SVG" />
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Pal;Aspiring+DevOps+and+Backend+Developer;Cloud+%7C+Automation+%7C+Backend+%7C+Linux+%7C+Docker+Learner;Self-Paced+Tech+Explorer+%F0%9F%92%BB;Let's+Automate+Things+%F0%9F%9A%80" alt="Typing Intro">
+
 </div>
 
 <div align="center">
@@ -73,7 +71,7 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 </div>
 
 ---
-## ## 📈 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -143,7 +141,12 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 
 <div align="center">
   <h3>💡 "Always building. Always learning. Let's connect and grow together!" 💡</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+😊;Let's+build+something+amazing+together!+🚀;Happy+coding!+💻" alt="Closing message" />
+  <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Happy+learning+and+building!+%F0%9F%9A%80" alt="Exit Typing">
+
+</div>
+
 </div>
 
 ---

@@ -132,7 +132,7 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 <table>
 <thead>
 <tr>
-<th width="20%">Channel</th>
+<th>Channel</th>
 <th>Focus Area</th>
 <th>Preview</th>
 </tr>
@@ -141,52 +141,52 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 <tr>
 <td><a href="https://www.youtube.com/@NetworkChuck">Network Chuck</a></td>
 <td>Networking Concepts, Linux, Security, DevOps, Cloud Fundamentals</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/wX75Z-4MEoM" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=wX75Z-4MEoM"><img src="https://img.youtube.com/vi/wX75Z-4MEoM/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@techroastshow">Tech Roast Show</a></td>
 <td>Tech Startups, Entrepreneurial Insights, Industry Analysis</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/sYXh0AdBw-I" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=sYXh0AdBw-I"><img src="https://img.youtube.com/vi/sYXh0AdBw-I/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@Indently">Indently</a></td>
 <td>Clean Code Practices, Refactoring, Code Maintainability</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/aSdVU9-SxH4" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=aSdVU9-SxH4"><img src="https://img.youtube.com/vi/aSdVU9-SxH4/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@TechWithTim">Tech With Tim</a></td>
 <td>Writing Modular, Maintainable & Production-Ready Code</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/UrsmFxEIp5k" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=UrsmFxEIp5k"><img src="https://img.youtube.com/vi/UrsmFxEIp5k/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@BroCodez">Bro Code</a></td>
 <td>Learning New Programming Languages (C, Java, Python, etc.)</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/-TkoO8Z07hI" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=-TkoO8Z07hI"><img src="https://img.youtube.com/vi/-TkoO8Z07hI/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@GregHogg">Greg Hogg</a></td>
 <td>Python Fundamentals, DSA Concepts, Competitive Programming</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/piAlsJySUGE" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=piAlsJySUGE"><img src="https://img.youtube.com/vi/piAlsJySUGE/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@CodeWithHarry">Code With Harry</a></td>
 <td>Conceptual Understanding (Full-Stack, Backend, Web Development)</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/I72uD8ED73U" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=I72uD8ED73U"><img src="https://img.youtube.com/vi/I72uD8ED73U/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@Fireship">Fireship</a></td>
 <td>Quick Insights on Frameworks, Tools, Languages</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/GyIEZRFX2Zk" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=GyIEZRFX2Zk"><img src="https://img.youtube.com/vi/GyIEZRFX2Zk/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@LinusTechTips">Linus Tech Tips</a></td>
 <td>Tech Industry Fun, Hardware Reviews, Tech Ecosystem Exploration</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/hdYZ3jJbD_0" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=hdYZ3jJbD_0"><img src="https://img.youtube.com/vi/hdYZ3jJbD_0/0.jpg" width="300"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.youtube.com/@LoiLiangYang">Loi Liang Yang</a></td>
 <td>Cybersecurity, Ethical Hacking, Bug Bounties</td>
-<td><iframe width="300" height="170" src="https://www.youtube.com/embed/IRl7D4JZz1Q" frameborder="0" allowfullscreen></iframe></td>
+<td><a href="https://www.youtube.com/watch?v=IRl7D4JZz1Q"><img src="https://img.youtube.com/vi/IRl7D4JZz1Q/0.jpg" width="300"></a></td>
 </tr>
 </tbody>
 </table>

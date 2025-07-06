@@ -127,6 +127,93 @@ learning: [Docker, CI/CD, Linux Automation, Cloud Fundamentals]
 
 ---
 
+## 📚 My Learning Resources
+
+<table>
+<thead>
+<tr>
+<th width="20%">Channel</th>
+<th>Focus Area</th>
+<th>Preview</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.youtube.com/@NetworkChuck">Network Chuck</a></td>
+<td>Networking Concepts, Linux, Security, DevOps, Cloud Fundamentals</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/wX75Z-4MEoM" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@techroastshow">Tech Roast Show</a></td>
+<td>Tech Startups, Entrepreneurial Insights, Industry Analysis</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/sYXh0AdBw-I" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@Indently">Indently</a></td>
+<td>Clean Code Practices, Refactoring, Code Maintainability</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/aSdVU9-SxH4" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@TechWithTim">Tech With Tim</a></td>
+<td>Writing Modular, Maintainable & Production-Ready Code</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/UrsmFxEIp5k" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@BroCodez">Bro Code</a></td>
+<td>Learning New Programming Languages (C, Java, Python, etc.)</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/-TkoO8Z07hI" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@GregHogg">Greg Hogg</a></td>
+<td>Python Fundamentals, DSA Concepts, Competitive Programming</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/piAlsJySUGE" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@CodeWithHarry">Code With Harry</a></td>
+<td>Conceptual Understanding (Full-Stack, Backend, Web Development)</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/I72uD8ED73U" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@Fireship">Fireship</a></td>
+<td>Quick Insights on Frameworks, Tools, Languages</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/GyIEZRFX2Zk" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@LinusTechTips">Linus Tech Tips</a></td>
+<td>Tech Industry Fun, Hardware Reviews, Tech Ecosystem Exploration</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/hdYZ3jJbD_0" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/@LoiLiangYang">Loi Liang Yang</a></td>
+<td>Cybersecurity, Ethical Hacking, Bug Bounties</td>
+<td><iframe width="300" height="170" src="https://www.youtube.com/embed/IRl7D4JZz1Q" frameborder="0" allowfullscreen></iframe></td>
+</tr>
+</tbody>
+</table>
+
+
+---
+
+## 🔥 Recommended Repositories
+
+### ⚙️ DevOps & Cloud
+- [Docker Compose Examples](https://github.com/docker/awesome-compose) - Production-ready docker-compose samples.
+- [Awesome CI/CD](https://github.com/cicdops/awesome-ci) - Curated CI/CD pipelines & practices.
+- [Cloud Resume Challenge](https://github.com/ForrestBrazeal/cloud-resume-challenge) - Hands-on cloud engineering project.
+
+### 💻 Backend & Automation
+- [FastAPI RealWorld Example](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Production-grade FastAPI backend.
+- [Flask Mega-Tutorial](https://github.com/miguelgrinberg/microblog) - Full-featured Flask application example.
+- [Awesome Python Scripts](https://github.com/ashupal86/python-scripts) - Personal Python automation scripts.
+
+### 🎨 Frontend & UI
+- [React Projects](https://github.com/karan/Projects#react) - Beginner to advanced ReactJS project ideas.
+- [Bootstrap Examples](https://github.com/mdbootstrap/bootstrap-examples) - Modern UI components with Bootstrap.
+
+### 🛡️ Cybersecurity & Networking
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Comprehensive cybersecurity tools list.
+- [Practical Ethical Hacking Labs](https://github.com/sneakerhax/peh-labs) - Practical hands-on security challenges.
+
 ---
 
 ## 🛡️ GitHub Contributions & Trophies
